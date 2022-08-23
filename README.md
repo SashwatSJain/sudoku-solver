@@ -5,8 +5,8 @@
 This is a python script where I have used backtracking to solve a sudoku table.
 
 ## Installation
-*no specific hardware needed
-*no specific softwate needed
+* no specific hardware needed
+* no specific softwate needed
 
 ## Execution
 * enter a preexisting sudoku table in a list format
